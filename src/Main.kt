@@ -27,5 +27,12 @@ fun main() {
 
     println("Arremessei um dado caiu em "+ dadoViciado)
 
+   val pessoa1 = Pessoa("Klayver",24,"Analista")
+   val pessoa2 = Pessoa("Samuel",25,"Engenheiro")
+   val pessoa3 = Pessoa("Thiago",27,"Desenvolvedor")
+
+
 
 }
+
+
